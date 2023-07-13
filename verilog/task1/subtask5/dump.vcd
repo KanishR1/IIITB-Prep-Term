@@ -1,0 +1,47 @@
+$date
+	Thu Jul 13 12:30:11 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tb $end
+$var wire 16 ! Y [15:0] $end
+$var reg 16 " I0 [15:0] $end
+$var reg 16 # I1 [15:0] $end
+$var reg 1 $ S $end
+$scope module M1 $end
+$var wire 16 % I0 [15:0] $end
+$var wire 16 & I1 [15:0] $end
+$var wire 1 $ S $end
+$var wire 16 ' Y [15:0] $end
+$upscope $end
+$scope task delay $end
+$upscope $end
+$scope task stimulus $end
+$var reg 16 ( a [15:0] $end
+$var reg 16 ) b [15:0] $end
+$var reg 1 * select $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0*
+b11111010 )
+b10101111 (
+b10101111 '
+b11111010 &
+b10101111 %
+0$
+b11111010 #
+b10101111 "
+b10101111 !
+$end
+#10000
+b11111010 !
+b11111010 '
+1$
+1*

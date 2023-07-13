@@ -1,0 +1,115 @@
+$date
+	Thu Jul 13 12:08:06 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module tb $end
+$var wire 1 ! Sum_out $end
+$var wire 1 " Cout $end
+$var reg 1 # Cin $end
+$var reg 1 $ D1 $end
+$var reg 1 % D2 $end
+$var integer 32 & i [31:0] $end
+$var integer 32 ' j [31:0] $end
+$var integer 32 ( k [31:0] $end
+$scope module M1 $end
+$var wire 1 # Cin $end
+$var wire 1 " Cout $end
+$var wire 1 $ D1 $end
+$var wire 1 % D2 $end
+$var wire 1 ! Sum_out $end
+$var wire 1 ) a1 $end
+$var wire 1 * a2 $end
+$var wire 1 + a3 $end
+$upscope $end
+$scope task delay $end
+$upscope $end
+$scope task stimulus $end
+$var reg 1 , a $end
+$var reg 1 - b $end
+$var reg 1 . c $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0.
+0-
+0,
+0+
+0*
+0)
+b0 (
+b0 '
+b0 &
+0%
+0$
+0#
+0"
+0!
+$end
+#10
+1!
+1)
+1%
+1-
+b1 (
+#20
+0%
+1$
+0-
+1,
+b1 '
+b0 (
+#30
+0!
+1"
+0)
+1*
+1%
+1-
+b1 (
+#40
+0"
+1!
+0*
+1#
+0%
+0$
+1.
+0-
+0,
+b1 &
+b0 '
+b0 (
+#50
+1"
+1+
+0!
+1)
+1%
+1-
+b1 (
+#60
+0%
+1$
+0-
+1,
+b1 '
+b0 (
+#70
+0+
+1!
+0)
+1*
+1%
+1-
+b1 (
+#80
+b10 &
+b10 '
+b10 (

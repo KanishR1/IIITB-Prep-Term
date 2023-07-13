@@ -1,0 +1,72 @@
+$date
+	Thu Jul 13 18:31:02 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tb_mux $end
+$var wire 1 ! Data_out $end
+$var reg 1 " Data_in_0 $end
+$var reg 1 # Data_in_1 $end
+$var reg 1 $ sel $end
+$scope module namexyz $end
+$var wire 1 " in0 $end
+$var wire 1 # in1 $end
+$var wire 1 ! out $end
+$var wire 1 % s0 $end
+$var wire 1 $ select $end
+$var wire 1 & w0 $end
+$var wire 1 ' w1 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0'
+0&
+1%
+0$
+0#
+0"
+0!
+$end
+#50000
+0%
+1$
+#60000
+1%
+0$
+1#
+#70000
+1!
+0%
+1'
+1$
+#80000
+1&
+1!
+1%
+0'
+0$
+0#
+1"
+#130000
+0!
+0&
+0%
+1$
+#140000
+1!
+1&
+1%
+0$
+1#
+#150000
+0&
+0%
+1'
+1$
+#160000
