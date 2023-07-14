@@ -1,0 +1,22 @@
+Q1. Signed char minimum value: -128
+Q2. Signed char maximum value: 127
+Q3. Unsigned char minimum value: 0
+Q4. Unsigned char maximum value: 255
+Q5. Char minimum value: -128
+Q6. Char maximum value: 127
+Q7. Signed short minimum value: -32768
+Q8. Signed short maximum value: 32767
+Q9. Unsigned short minimum value: 0
+Q10. Unsigned short maximum value: 65535
+Q11. Signed int minimum value: -2147483648
+Q12. Signed int maximum value: 2147483647
+Q13. Unsigned int minimum value: 0
+Q14. Unsigned int maximum value: 4294967295
+Q15. Signed long minimum value: -9223372036854775808
+Q16. Signed long maximum value: 9223372036854775807
+Q17. Unsigned long minimum value: 0
+Q18. Unsigned long maximum value: 18446744073709551615
+Q19. Signed long long minimum value: -9223372036854775808
+Q20. Signed long long maximum value: 9223372036854775807
+Q21. Unsigned long long minimum value: 0
+Q22. Unsigned long long maximum value: 18446744073709551615

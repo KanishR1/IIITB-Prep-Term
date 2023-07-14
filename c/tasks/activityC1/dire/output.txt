@@ -1,0 +1,16 @@
+.
+./wolf
+./wolf/w
+./wolf/cry
+./wolf/cry/c
+./voir
+./voir/v
+./straits
+./straits/Mackinac
+./straits/Mackinac/M
+./straits/s
+./d
+./times
+./times/t
+./output.txt
+./cry
