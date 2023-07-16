@@ -3,14 +3,14 @@ int main()
 {
 enum petrolpumps {ZLINE=0, MPD, QPD};
 enum parityTypes {noparity = 0, odd, even};
-//enum petrolpumps using= ZLINE;
-//enum parityTypes parity = noparity;
+enum petrolpumps using;
+enum parityTypes parity;
 int packet = 0;
 /* Forming data packets */
 
-for(int using = ZLINE; using<=QPD; using++)
+for(using = ZLINE; using<=QPD; using++)
 {
-for(int parity = noparity; parity<=even; parity++)
+for(parity = noparity; parity<=even; parity++)
 {
 packet = using << 8;
 packet = packet | parity;
