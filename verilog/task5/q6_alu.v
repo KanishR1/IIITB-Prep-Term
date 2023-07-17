@@ -56,6 +56,7 @@ end
 end
 endmodule
 
+
 `timescale 1ns/1ps
 module alu_test;
 reg [39:0]a,b;

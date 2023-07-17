@@ -13,21 +13,21 @@ $var reg 1 " clk $end
 $var reg 8 # data [7:0] $end
 $var integer 32 $ file1 [31:0] $end
 $upscope $end
-$enddefinitions $end
-#0
+$enddefinitions #20000
+
 $dumpvars
 b10 $
 bx #
-0"
-b0 !
+#20000
+
 $end
 #5000
 b1 !
-b11111111 #
-1"
-#10000
+b11111111 #20000
+0000
 0"
 #15000
 b10 !
 b1010101 #
 1"
+#20000
