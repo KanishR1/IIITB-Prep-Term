@@ -1,0 +1,77 @@
+$date
+	Mon Jul 17 07:04:50 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module alu_test $end
+$var wire 40 ! out [39:0] $end
+$var reg 40 " a [39:0] $end
+$var reg 40 # b [39:0] $end
+$var reg 1 $ clk $end
+$var reg 5 % s [4:0] $end
+$scope module uut $end
+$var wire 40 & a [39:0] $end
+$var wire 40 ' b [39:0] $end
+$var wire 1 $ clk $end
+$var wire 5 ( s [4:0] $end
+$var reg 40 ) out [39:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx )
+b111 (
+b11 '
+b1011 &
+b111 %
+0$
+b11 #
+b1011 "
+bx !
+$end
+#3000
+1$
+#6000
+0$
+#9000
+1$
+#10000
+b110 %
+b110 (
+#12000
+0$
+#15000
+b1000 !
+b1000 )
+1$
+#18000
+0$
+#20000
+b1000 %
+b1000 (
+#21000
+b100001 !
+b100001 )
+1$
+#24000
+0$
+#27000
+1$
+#30000
+0$
+b1011 %
+b1011 (
+#33000
+b11 !
+b11 )
+1$
+#36000
+0$
+#39000
+1$
+#40000

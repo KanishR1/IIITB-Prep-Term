@@ -1,0 +1,33 @@
+$date
+	Mon Jul 17 06:53:25 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module memory_module $end
+$var reg 3 ! address [2:0] $end
+$var reg 1 " clk $end
+$var reg 8 # data [7:0] $end
+$var integer 32 $ file1 [31:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b10 $
+bx #
+0"
+b0 !
+$end
+#5000
+b1 !
+b11111111 #
+1"
+#10000
+0"
+#15000
+b10 !
+b1010101 #
+1"
