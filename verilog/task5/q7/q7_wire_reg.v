@@ -1,13 +1,13 @@
 module wires();
 
 wire [3:0] y; 
-wire  z[3:0]; 
+wire  [3:0] z; 
 assign y=4'b1001;
-assign z=4'b1111
+assign z=4'b1111;
 
 initial
 begin
-$display("y= %b", y[0]);
+$display("y= %b", y);
 $display("z= %b", z);
 end
  

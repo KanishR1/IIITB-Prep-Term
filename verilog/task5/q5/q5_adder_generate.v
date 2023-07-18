@@ -70,6 +70,7 @@ initial begin
 	a0 = 0; a1 = 0; cai = 0; #10;
 	a0 = 1; a1 = 0; cai = 0; #10;
 	a0 = 0; a1 = 1; cai = 1; #10;
+	a0 = 1; a1 = 1; cai = 1; #10;
 end
 
 initial begin
