@@ -1,0 +1,177 @@
+Circuit: * C:\Users\Kanish\Desktop\IIITB_prep_term\LTspice\activity4\pushpull_nodist\pushpull.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 1.08507
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 1.03562
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 1.02257
+vernier = 0.00520833
+vernier = 0.00260417
+Gmin = 1.01594
+vernier = 0.00347222
+vernier = 0.00173611
+vernier = 0.00231481
+Gmin = 1.01191
+vernier = 0.00115741
+vernier = 0.00154321
+vernier = 0.000771604
+Gmin = 1.01025
+vernier = 0.00102881
+Gmin = 1.00798
+vernier = 0.000514403
+vernier = 0.00068587
+Gmin = 1.0069
+vernier = 0.000514403
+vernier = 0.00068587
+vernier = 0.000514402
+Gmin = 1.00612
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 0.390625%
+Source Step = 0.420218%
+Source Step = 0.449811%
+Source Step = 0.479403%
+Source Step = 0.508996%
+Source Step = 0.538589%
+vernier = 0.00146484
+Source Step = 0.581499%
+Source Step = 0.625888%
+Source Step = 0.670277%
+Source Step = 0.714666%
+Source Step = 0.759055%
+vernier = 0.00219727
+Source Step = 0.8212%
+Source Step = 0.887784%
+Source Step = 0.954368%
+Source Step = 1.02095%
+Source Step = 1.08754%
+vernier = 0.0032959
+Source Step = 1.17742%
+Source Step = 1.2773%
+Source Step = 1.37718%
+Source Step = 1.47705%
+Source Step = 1.57693%
+vernier = 0.00494385
+Source Step = 1.70676%
+Source Step = 1.85658%
+Source Step = 2.00639%
+Source Step = 2.15621%
+Source Step = 2.30602%
+vernier = 0.00741577
+Source Step = 2.49329%
+Source Step = 2.71801%
+Source Step = 2.94273%
+Source Step = 3.16745%
+Source Step = 3.39217%
+vernier = 0.0111237
+Source Step = 3.66183%
+Source Step = 3.99891%
+Source Step = 4.33599%
+Source Step = 4.67307%
+Source Step = 5.01015%
+vernier = 0.0166855
+Source Step = 5.3978%
+Source Step = 5.90342%
+Source Step = 6.40904%
+Source Step = 6.91466%
+Source Step = 7.42028%
+vernier = 0.0250282
+Source Step = 7.97646%
+Source Step = 8.73489%
+Source Step = 9.49332%
+Source Step = 10.2518%
+Source Step = 11.0102%
+vernier = 0.0375423
+Source Step = 11.8065%
+Source Step = 12.9442%
+Source Step = 14.0818%
+Source Step = 15.2195%
+Source Step = 16.3571%
+Source Step = 17.4948%
+vernier = 0.0563135
+Source Step = 19.2012%
+Source Step = 20.9077%
+Source Step = 22.6142%
+Source Step = 24.3207%
+Source Step = 26.0271%
+vernier = 0.0844703
+Source Step = 28.5015%
+Source Step = 31.0612%
+Source Step = 33.6209%
+Source Step = 36.1806%
+Source Step = 38.7403%
+vernier = 0.126705
+Source Step = 42.3239%
+Source Step = 46.1635%
+Source Step = 50.003%
+Source Step = 53.8426%
+Source Step = 57.6821%
+vernier = 0.190058
+Source Step = 62.8655%
+Source Step = 68.6249%
+Source Step = 74.3842%
+Source Step = 80.1436%
+Source Step = 85.9029%
+vernier = 0.285087
+Source Step = 93.39%
+Source Step = 100%
+Source Step = 99.0135%
+Source Step = 99.0472%
+Source Step = 99.081%
+Source Step = 99.1147%
+Source Step = 99.1485%
+Source Step = 99.1822%
+Source Step = 99.216%
+vernier = 0.00167043
+Source Step = 99.2582%
+Source Step = 99.3088%
+Source Step = 99.3594%
+Source Step = 99.41%
+Source Step = 99.4606%
+vernier = 0.00250565
+Source Step = 99.5214%
+Source Step = 99.5973%
+Source Step = 99.6732%
+Source Step = 99.7492%
+Source Step = 99.8251%
+vernier = 0.00375847
+Source Step = 99.9124%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Tue Jul 18 06:42:11 2023
+Total elapsed time: 0.885 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 20339
+traniter = 6867
+tranpoints = 2167
+accept = 1849
+rejected = 318
+matrix size = 30
+fillins = 37
+solver = Normal
+Avg thread counts: 1.4/2.3/2.0/1.4
+Matrix Compiler1: 4.57 KB object code size  1.2/0.8/[0.4]
+Matrix Compiler2: 3.98 KB object code size  0.6/0.7/[0.3]
+
