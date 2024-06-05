@@ -1,2 +1,2 @@
-# IIITB_prep_term
+# IIITB Prep Term
 This repo contains the prep-term assignments and materials.
